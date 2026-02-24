@@ -8,6 +8,7 @@ Ce repository regroupe mon apprentissage de Python à travers des **exercices**,
 - Centraliser mes travaux Python dans une structure claire.
 - Suivre mes progrès (de la pratique de base aux projets plus complets).
 - Séparer les projets selon leur contexte : personnel ou universitaire.
+- Avoir un portfolio Python pour le présenter pour des stages/CV
 
 ## 🗂️ Nouvelle organisation
 Tous les fichiers de travail sont désormais rassemblés dans un dossier unique `projets/`.
@@ -25,8 +26,7 @@ Tous les fichiers de travail sont désormais rassemblés dans un dossier unique 
     └── exam.ipynb
 ```
 
-## 🚀 Suite prévue
-- Déplacer progressivement les fichiers dans `projets/perso/` ou `projets/universitaire/` selon leur nature.
+## 🚀 Suite Prévue :
 - Ajouter des descriptions par projet (objectif, notions utilisées, résultats).
 - Améliorer la qualité du code (noms, commentaires, structure, tests).
 
