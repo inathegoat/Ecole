@@ -11,8 +11,6 @@ Ce repository regroupe mon apprentissage de Python à travers des **exercices**,
 - Avoir un portfolio Python pour le présenter pour des stages/CV
 
 ## 🗂️ Organisation
-Tous les fichiers de travail sont désormais rassemblés dans un dossier unique `projets/`.
-
 ```text
 .
 ├── README.md
