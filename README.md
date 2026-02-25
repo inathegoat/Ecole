@@ -10,7 +10,7 @@ Ce repository regroupe mon apprentissage de Python à travers des **exercices**,
 - Séparer les projets selon leur contexte : personnel ou universitaire.
 - Avoir un portfolio Python pour le présenter pour des stages/CV
 
-## 🗂️ Nouvelle organisation
+## 🗂️ Organisation
 Tous les fichiers de travail sont désormais rassemblés dans un dossier unique `projets/`.
 
 ```text
@@ -18,17 +18,6 @@ Tous les fichiers de travail sont désormais rassemblés dans un dossier unique 
 ├── README.md
 └── projets/
     ├── perso/
-    ├── universitaire/
-    ├── Python.py
-    ├── PYTHON 2.py
-    ├── feuille 3.py
-    ├── Python4.ipynb
-    └── exam.ipynb
+    └── universitaire/
+
 ```
-
-## 🚀 Suite Prévue :
-- Ajouter des descriptions par projet (objectif, notions utilisées, résultats).
-- Améliorer la qualité du code (noms, commentaires, structure, tests).
-
-## 🤝 Contribution
-Ce dépôt est personnel, mais toute suggestion d’amélioration (organisation, style Python, bonnes pratiques) est la bienvenue.
